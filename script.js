@@ -70,7 +70,7 @@ $(function () {
 });
 
 function startCountdown() {
-  const weddingDate = new Date("March 10, 2026 19:00:00").getTime();
+  const weddingDate = new Date("March 4, 2026 19:00:00").getTime();
 
   setInterval(() => {
     const now = new Date().getTime();
